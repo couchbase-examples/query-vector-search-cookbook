@@ -1,12 +1,12 @@
 ---
 # frontmatter
 path: "/tutorial-capella-ai-services-llamaindex-rag"
-title: "Retrieval-Augmented Generation (RAG) with Capella AI Data Plane and LlamaIndex"
-short_title: "RAG with Couchbase Capella AI Data Plane and LlamaIndex"
+title: "Retrieval-Augmented Generation (RAG) with Capella AI Data Plane (formerly AI Services) and LlamaIndex"
+short_title: "RAG with Couchbase Capella AI Data Plane (formerly AI Services) and LlamaIndex"
 description:
-  - Learn how to build a semantic search engine using Couchbase Capella AI Data Plane.
-  - This tutorial demonstrates how to integrate Couchbase's vector search capabilities with the embeddings provided by Capella AI Data Plane.
-  - You will understand how to perform Retrieval-Augmented Generation (RAG) using Llamaindex and Capella AI Data Plane.
+  - Learn how to build a semantic search engine using Couchbase Capella AI Data Plane (formerly AI Services).
+  - This tutorial demonstrates how to integrate Couchbase's vector search capabilities with the embeddings provided by Capella AI Data Plane (formerly AI Services).
+  - You will understand how to perform Retrieval-Augmented Generation (RAG) using Llamaindex and Capella AI Data Plane (formerly AI Services).
 content_type: tutorial
 filter: sdk
 technology:
